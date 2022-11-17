@@ -12,13 +12,11 @@ Speech Emotion Recognition (SER) refers to the recognition of human emotions fro
 
 If you use this repository, please consider citing:
 
-<pre>@INPROCEEDINGS{10.1109/PerComWorkshops53856.2022.9767445,
- author={King Gandhi, Raeshak, and Tsouvalas, Vasileios and Meratnia, Nirvana},
- booktitle = {2023 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)},
- title={On applicability of Meta-Learning to Speech Emotion Recognition},
- year = {2023},
- month = {mar}
- pages = {359-364},
- doi = {10.1109/PerComWorkshops53856.2022.9767445},
- url = {https://doi.ieeecomputersociety.org/10.1109/PerComWorkshops53856.2022.9767445},
+<pre>@misc{Charles2013,
+  author={King Gandhi, Raeshak, and Tsouvalas, Vasileios and Meratnia, Nirvana},
+  title={On applicability of Meta-Learning to Speech Emotion Recognition},
+  year = {2022},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/vtsouval/DA_MLDG}},
 }</pre>
