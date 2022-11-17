@@ -18,5 +18,5 @@ If you use this repository, please consider citing:
   year = {2022},
   publisher = {GitHub},
   journal = {GitHub repository},
-  url = {\url{https://github.com/vtsouval/DA_MLDG}},
+  url = {https://github.com/vtsouval/DA_MLDG},
 }</pre>
