@@ -17,6 +17,5 @@ If you use this repository, please consider citing:
   title={On applicability of Meta-Learning to Speech Emotion Recognition},
   year = {2022},
   publisher = {GitHub},
-  journal = {GitHub repository},
   url = {https://github.com/vtsouval/DA_MLDG},
 }</pre>
