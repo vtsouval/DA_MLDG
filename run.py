@@ -1,10 +1,9 @@
 import os
 import subprocess
-import pathlib
 import shutil
 
 def main():
-
+	runs=1
 	epochs=50
 	learning_rate = 0.01
 	methods = ['deepall','rsc','mldg','damldg']
