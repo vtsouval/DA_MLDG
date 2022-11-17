@@ -21,10 +21,12 @@ foo@bar:~$ python run.py
 
 If you use this repository, please consider citing:
 
-<pre>@misc{Charles2013,
-  author={King Gandhi, Raeshak, and Tsouvalas, Vasileios and Meratnia, Nirvana},
-  title={On applicability of Meta-Learning to Speech Emotion Recognition},
-  year = {2022},
-  publisher = {GitHub},
-  url = {https://github.com/vtsouval/DA_MLDG},
+<pre>@misc{Tsou2303:Efficacy,
+  author={"Raeshak {King Gandhi} and Vasileios Tsouvalas and Nirvana Meratnia"},
+  title={"On efficacy of {Meta-Learning} for Domain Generalization in Speech Emotion
+  Recognition"},
+  booktitle="Second International Workshop on Negative Results in Pervasive Computing 2023 (PerFail 2023)",
+  address={"Atlanta, USA"},
+  month={mar},
+  year={2023},
 }</pre>
